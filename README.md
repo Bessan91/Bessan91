@@ -1,4 +1,4 @@
-![www](https://github.com/Bessan91/Bessan91/assets/109364643/2bdbccf5-f9e6-4088-8b56-89663537ed94)
+
 <h1 align="center">Hi 👋, I'm Bessan Hussien</h1>
 <h3 align="center">A developer graduate at Birzeit University -Palestine</h3>
 
