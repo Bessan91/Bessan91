@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bessan91&label=Profile%20views&color=0e75b6&style=flat" alt="bessan91" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+-  I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **React library, JS, PHP, Laravel framework**
+-  I’m currently learning **React library, Laravel framework**
 
-- 📫 How to reach me **hussienbessan@gmail.com**
+-  How to reach me **hussienbessan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
